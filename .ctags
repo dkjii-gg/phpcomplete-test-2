@@ -1,0 +1,13 @@
+-R
+
+--fields=+laimS
+
+--PHP-kinds=+cf-v
+
+--exclude=*.js
+--exclude=*.phtml
+--exclude=*.html
+
+--languages=php
+
+--output-format=e-ctags
